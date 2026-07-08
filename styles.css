@@ -685,7 +685,7 @@ textarea:focus {
 
 .closing-card h2 {
   max-width: 11ch;
-  color: #ffffff;
+  color: var(--bg);
 }
 
 .closing-card p {
